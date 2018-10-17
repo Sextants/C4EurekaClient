@@ -1,0 +1,26 @@
+{
+  "name": "c4eurekaclient",
+  "version": "0.0.1",
+  "description": "C4Framework Eureka Client",
+  "main": "out",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sextants/C4EurekaClient.git"
+  },
+  "keywords": [
+    "C4Framework",
+    "Eureka",
+    "Client"
+  ],
+  "author": "Sextant",
+  "bugs": {
+    "url": "https://github.com/Sextants/C4EurekaClient.git"
+  },
+  "dependencies": {
+    "@types/eureka-js-client": "^4.3.1",
+    "eureka-js-client": "^4.4.1"
+  }
+}
